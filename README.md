@@ -1,4 +1,4 @@
-### :shopping_trolley: EMart Microservices Application (Dockerized | Full-Stack Project)
+### EMart Microservices Application (Dockerized | Full-Stack Project)
 
 *Description:
 
