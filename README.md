@@ -1,10 +1,10 @@
 ### EMart Microservices Application (Dockerized | Full-Stack Project)
 
-*Description:
+Description:
 
 Developed and deployed a containerized microservices-based EMart application using **Docker Compose** to orchestrate multiple interconnected services. The system architecture is built with an **Angular** frontend, **Node.js** (Emart API) and **Java** (Books API) backend services, and both **MongoDB** and **MySQL** databases, all managed through an **Nginx API Gateway**.
 
-*Architecture Overview:
+Architecture Overview:
 
 **Frontend:** Angular client served through Nginx.
 **API Gateway:** Nginx routes client requests — `/api` directed to the Node.js Emart service and `/webapi` to the Java Books service.
@@ -21,3 +21,5 @@ Developed and deployed a containerized microservices-based EMart application usi
 
 *Key Technologies:
 Docker, Docker Compose, Angular, Node.js, Express.js, Java, Spring Boot, MongoDB, MySQL, Nginx
+
+<img width="1789" height="923" alt="Screenshot 2025-09-27 at 11 49 10 PM" src="https://github.com/user-attachments/assets/ecd1d15d-2ab0-48ab-b898-596f1ba97cfb" />
